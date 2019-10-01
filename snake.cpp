@@ -167,6 +167,7 @@ void Logic()
 		fruit_init();
 	}
 }
+/* this is a comment */
 int main()
 {
 	do {
