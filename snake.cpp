@@ -5,7 +5,7 @@
 #include <string>
 #include <windows.h>
 using namespace std;
-
+/* variables are declared here */
 bool end_game;
 bool turn_off;
 const int width_play = 20;
