@@ -35,6 +35,7 @@ void fruit_init()
 	fruitX = rand() % width_play;
 	fruitY = rand() % height_play;
 }
+/* setup function starts here */
 void Setup() 
 {
 	end_game = false;
