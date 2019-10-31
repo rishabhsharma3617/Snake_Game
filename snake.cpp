@@ -96,6 +96,7 @@ void Draw()
 	cout << endl;
 	cout << "Score: " << score << endl;
 }
+/* usage of kbhit is defined here for continuous game */
 void Input()
 {
 	if (_kbhit()) {
