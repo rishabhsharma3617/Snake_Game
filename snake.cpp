@@ -29,6 +29,7 @@ void init_Game()
 	     << "\n\n             Your Previous Score: " << score << endl;
 }
 
+/* fruit function starts here */
 void fruit_init()
 {
 	fruitX = rand() % width_play;
@@ -118,6 +119,7 @@ void Input()
 		}
 	}
 }
+/*logic function starts here */
 void Logic()
 {
 	int prevX = tailX[0];
