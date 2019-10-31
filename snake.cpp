@@ -46,6 +46,7 @@ void Setup()
 	score = 0;
 	nTail = 0;
 }
+/* draw function starts here */
 void Draw()
 {
 	system("cls");                         
