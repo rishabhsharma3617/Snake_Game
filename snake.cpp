@@ -118,6 +118,7 @@ void Input()
 		}
 	}
 }
+/*logic function starts here */
 void Logic()
 {
 	int prevX = tailX[0];
