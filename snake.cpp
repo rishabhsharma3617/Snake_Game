@@ -5,7 +5,7 @@
 #include <string>
 #include <windows.h>
 using namespace std;
-
+/* all the variables ae defined here */
 bool end_game;
 bool turn_off;
 const int width_play = 20;
